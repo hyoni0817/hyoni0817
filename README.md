@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20I'm%20a%20FE%20Developer&fontSize=60&FontColor=#ffffff)
+### 🌼About me
+I'm a front-end developer, but I'm also interested in back-end development.   
+I try to be a developer who is a help to people's daily lives.
 
 ### 📚Skills
 ![Javascript](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white)
