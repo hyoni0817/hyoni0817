@@ -4,13 +4,13 @@ I'm a front-end developer, but I'm also interested in back-end development.
 I try to be a developer who is a help to people's daily lives.
 
 ### 📚Skills
-![Javascript](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white)
-![Javascript](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
-![Javascript](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Javascript](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Javascript](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Javascript](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20aws&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20aws&logoColor=white)
 
 ### 💌Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&url=imadevfairy@gmail.com)](mailto:imadevfairy@gmail.com)
