@@ -12,4 +12,9 @@ I try to be a developer who is a help to people's daily lives.
 ![Javascript](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Javascript](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20aws&logoColor=white)
 
+### 💌Contacts
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&url=imadevfairy@gmail.com)](mailto:imadevfairy@gmail.com)
+[![naver_blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&url=https://blog.naver.com/dudu1104)](https://blog.naver.com/dudu1104)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sinips2)](https://twitter.com/sinips2)
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoni0817&title_color=ff728c&show_icons=true&icon_color=ffafbe&border_color=ffafbe)](https://github.com/anuraghazra/github-readme-stats) -->
