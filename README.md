@@ -1,20 +1,45 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20I'm%20a%20FE%20Developer&fontSize=60&FontColor=#ffffff)
-### 🌼About me
-I'm a front-end developer, but I'm also interested in back-end development.   
-I try to be a developer who is a help to people's daily lives.
+## 🙌 Frontend developer
+- Focused on building scalable UI and improving development workflow.
+- Experienced in AI-assisted development (Cursor, Codex)
+- Built a PDF export system and improved rendering performance
 
-### 📚Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20aws&logoColor=white)
+## 🛠️ Core Skills
+- Next.js / React / Typescript
 
-### 💌Contacts
+## 🧠 AI Productivity Tools
+- Cursor / Codex
+
+## 🚀 Featured Projects
+**React PDF Export System**
+- Implemented automatic page splitting for A4 document export   
+- Designed layout calculation logic with AI assistance  
+- Analyzed and adjusted DOM measurement & pagination behavior  
+- Applied in Health Log project
+- [Core Code](https://github.com/hyoni0817/health-log/tree/main/src/shared/lib/document-export)  
+- [Usage Example](https://github.com/hyoni0817/health-log/blob/main/src/features/blood-sugar/ui/BloodSugarAnalysisDocument.tsx)
+
+
+**Health Log**
+- Personal health tracking application   
+- Data visualization & export features
+- [Live Demo](https://hyoni-health-log.vercel.app/)   
+- [GitHub](https://github.com/hyoni0817/health-log)
+
+
+## 📚 Open Source Contributions
+**[ko.react.dev](https://github.com/reactjs/ko.react.dev)**   
+   
+- ✅ docs: Update Korean translation for example UI text in form.md [#1272](https://github.com/reactjs/ko.react.dev/pull/1272)
+
+## ✍️ Recommend Posting ([Tistory](https://dev-sisun.tistory.com/))
+- [[Tech] 바이브 코딩으로 React 코드를 PDF로 변환 기능 만들기](https://dev-sisun.tistory.com/53)   
+- [[UI/UX] 같은 UX 이론, 왜 어떤 경험은 불쾌하고 어떤 경험은 편할까?](https://dev-sisun.tistory.com/50)   
+- [[UI/UX] 메뉴 위 '말풍선'이 유입량을 높일 수 있을까?](https://dev-sisun.tistory.com/38)   
+
+## 📮 Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&url=imadevfairy@gmail.com)](mailto:imadevfairy@gmail.com)
-[![naver_blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&url=https://blog.naver.com/dudu1104)](https://blog.naver.com/dudu1104)
+[![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://dev-sisun.tistory.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sinips2)](https://twitter.com/sinips2)
+
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoni0817&title_color=ff728c&show_icons=true&icon_color=ffafbe&border_color=ffafbe)](https://github.com/anuraghazra/github-readme-stats) -->
