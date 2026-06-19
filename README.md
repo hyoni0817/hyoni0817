@@ -10,14 +10,6 @@
 - Cursor / Codex
 
 ## 🚀 Featured Projects
-**React PDF Export System**
-- Implemented automatic page splitting for A4 document export   
-- Designed layout calculation logic with AI assistance  
-- Analyzed and adjusted DOM measurement & pagination behavior  
-- Applied in Health Log project
-- [Core Code](https://github.com/hyoni0817/health-log/tree/main/src/shared/lib/document-export)  
-- [Usage Example](https://github.com/hyoni0817/health-log/blob/main/src/features/blood-sugar/ui/BloodSugarAnalysisDocument.tsx)
-
 **react-export-doc (npm package)**
 - Developed and published an open-source React library for seamless PDF generation
 - Implemented automatic page splitting for A4 document export with AI assistance
