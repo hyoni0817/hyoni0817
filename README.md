@@ -18,6 +18,13 @@
 - [Core Code](https://github.com/hyoni0817/health-log/tree/main/src/shared/lib/document-export)  
 - [Usage Example](https://github.com/hyoni0817/health-log/blob/main/src/features/blood-sugar/ui/BloodSugarAnalysisDocument.tsx)
 
+**react-export-doc (npm package)**
+- Developed and published an open-source React library for seamless PDF generation
+- Implemented automatic page splitting for A4 document export with AI assistance
+- Built core layout calculation logic, optimizing DOM measurement & pagination behavior
+- [NPM](https://www.npmjs.com/package/react-export-doc)
+- [GitHub](https://github.com/hyoni0817/react-export-doc) 
+
 
 **Health Log**
 - Personal health tracking application   
